@@ -14,3 +14,4 @@ setup(
 
 #instalamos setuptools de esta manera: sudo apt-get install python3-setuptools Carli27E contraseña sudo
 # se supone que cualquier persona con el nombre de mi paquete ahora puede usarlo y yo usar uno tmb.
+#probando probando
